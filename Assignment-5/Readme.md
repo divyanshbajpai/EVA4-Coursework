@@ -1,3 +1,16 @@
+# Code-1
+
+- Target: Getting basic skeleton ready
+- Result: The model works but number of parameter is huge
+  - Parameters: 6,379,786
+  - Best Train Accuracy: 99.95%
+  - Best Test Accuracy: 99.35%
+- Analysis:
+ - The model performs well and rarely reached accuracy of 99.3%
+ - The number of parameters are huge penalty.
+ - Model needs to refine and cut down lot of parameters
+ - The model is being overfitting, leaving no scope for further learning.
+
 # Code-2
 
 - Target: Decreasing the number of parameters.
