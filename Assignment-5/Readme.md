@@ -4,7 +4,7 @@
 - Result: The model works but number of parameter is huge
   - Parameters: 6,379,786
   - Best Train Accuracy: 99.95%
-  - Best Test Accuracy: 99.35%
+  - Best Test Accuracy: 99.25%
 - Analysis:
  - The model performs well and rarely reached accuracy of 99.3%
  - The number of parameters are huge penalty.
