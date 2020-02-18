@@ -1,3 +1,16 @@
+# Code-2
+
+- Target: Decreasing the number of parameters.
+- Result: The number of parameters decreased drastically
+  - Parameters: 9,752
+  - Best Train Accuracy: 99.66%
+  - Best Test Accuracy: 99.32%
+- Analysis:
+ - We used squeeze and expand architecture. Using minimal number of channels required.
+ - Using 1*1 frequently made it possible to control parameter graowth
+ - Still model is overfitting and the 99.3 accuracy is rare, with huge difference between val acc and train acc.
+ - Scope for more improvement
+
 # Code-3
 
 - Target: Tackle overfitting by adding random dropouts on train images
