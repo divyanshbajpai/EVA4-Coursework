@@ -1,3 +1,15 @@
+# Code-3
+
+- Target: Tackle overfitting by adding random dropouts on train images
+- Result: The model is now not overfitting.
+  - Parameters: 9,752
+  - Best Train Accuracy: 99.14%
+  - Best Test Accuracy: 99.39%
+- Analysis:
+ - Adding Dropout increased the capacity of the model to learn more.
+ - The difference between val acc and train acc is now very less.
+ - Though no major difference in val acc but the model is now capable to learn more.
+
 # Code-4
 
 - Target: Image Augementation, Rotation
