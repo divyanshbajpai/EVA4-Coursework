@@ -1,3 +1,14 @@
+# Code-4
+
+- Target: Image Augementation, Rotation
+- Result: Training Accuracy decreased
+  - Parameters: 9,752
+  - Best Train Accuracy: 99.02%
+  - Best Test Accuracy: 99.36%
+- Analysis:
+ - After adding rotation, the model is underfitting, the training accuracy has descreased.
+ - This happens beacause we have made changes to train dataset and model will be learning new features(slightly randomly rotated images)
+
 # Code-5
 - Target: Change Learning Rate
 - Result: The val accuracy increased. 99.4%+ acc is more often.
