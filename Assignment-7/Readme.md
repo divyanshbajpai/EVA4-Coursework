@@ -6,7 +6,7 @@
 
 # Graph
 
-
+![Accuracy and Loss](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-7/acc.png?raw=true)
 
 # Logs
 
