@@ -3,6 +3,7 @@
 - Parameters: 91,584
 - Val_Acc: 81.36 %
 - Epochs: 40
+- RF:103
 
 # Graph
 
