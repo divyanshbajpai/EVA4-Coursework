@@ -4,6 +4,7 @@
 - Val_Acc: 81.36 %
 - Epochs: 40
 - RF:103
+- Entry file: [main.ipynb](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-7/main.ipynb)
 
 # Graph
 
