@@ -1,8 +1,9 @@
 # Assignment - 8
 
-Epochs: 25
-Max_Val_Acc: 90.50% (ep=23)
-Augmentation Strategy: Random Horizontal Flip on Train data, Normalization on test and train
+- Epochs: 25
+- Max_Val_Acc: 90.50% (ep=23)
+- Augmentation Strategy: Random Horizontal Flip on Train data, Normalization on test and train
+- Resnet18
 
 # Graph
 
