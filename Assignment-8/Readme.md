@@ -5,6 +5,19 @@
 - Augmentation Strategy: Random Horizontal Flip on Train data, Normalization on test and train
 - Resnet18
 
+## Accuracies
+
+Accuracy of plane : 93 %
+Accuracy of   car : 100 %
+Accuracy of  bird : 84 %
+Accuracy of   cat : 73 %
+Accuracy of  deer : 82 %
+Accuracy of   dog : 83 %
+Accuracy of  frog : 88 %
+Accuracy of horse : 96 %
+Accuracy of  ship : 95 %
+Accuracy of truck : 94 %
+
 # Graph
 
 ![Acc and Loss](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-8/s8.png)
