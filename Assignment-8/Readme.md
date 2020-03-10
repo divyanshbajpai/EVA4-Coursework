@@ -2,6 +2,7 @@
 
 - Epochs: 25
 - Max_Val_Acc: 90.50% (ep=23)
+- Final_Val_Acc: 90.18 % (ep=24)
 - Augmentation Strategy: Random Horizontal Flip on Train data, Normalization on test and train
 - Resnet18
 - All the py files are called from Main.ipynb files in a Modular way
