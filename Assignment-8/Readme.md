@@ -4,6 +4,7 @@
 - Max_Val_Acc: 90.50% (ep=23)
 - Augmentation Strategy: Random Horizontal Flip on Train data, Normalization on test and train
 - Resnet18
+- All the py files are called from Main.ipynb files in a Modular way
 
 ## Accuracies
 
