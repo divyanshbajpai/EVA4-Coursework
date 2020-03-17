@@ -2,7 +2,7 @@
 
 - Epoch: 25
 - Val_Acc: 90.32 %
-- ResNet18
+- ResNet18 on Cifar10
 - Augmentation Strategy: Random Horizontal Flip on Train data, Normalization on test and train
 
 ## Graph
