@@ -1,0 +1,1158 @@
+{
+    "dog1.jpeg7390": {
+        "filename": "dog1.jpeg",
+        "size": 7390,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 106,
+                    "y": 9,
+                    "width": 159,
+                    "height": 155
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "dog",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog2.jpeg7206": {
+        "filename": "dog2.jpeg",
+        "size": 7206,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 111,
+                    "y": 22,
+                    "width": 91,
+                    "height": 108
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog3.jpeg10467": {
+        "filename": "dog3.jpeg",
+        "size": 10467,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100,
+                    "y": 7,
+                    "width": 106,
+                    "height": 158
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog4.jpeg5120": {
+        "filename": "dog4.jpeg",
+        "size": 5120,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 50,
+                    "y": 12,
+                    "width": 252,
+                    "height": 145
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog5.jpeg9380": {
+        "filename": "dog5.jpeg",
+        "size": 9380,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 44,
+                    "y": 19,
+                    "width": 127,
+                    "height": 190
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog6.jpeg5822": {
+        "filename": "dog6.jpeg",
+        "size": 5822,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 99,
+                    "y": 4,
+                    "width": 125,
+                    "height": 175
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog7.jpeg5582": {
+        "filename": "dog7.jpeg",
+        "size": 5582,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 20,
+                    "y": 16,
+                    "width": 172,
+                    "height": 208
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog8.jpeg9773": {
+        "filename": "dog8.jpeg",
+        "size": 9773,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 45,
+                    "width": 117,
+                    "height": 111
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog9.jpeg5588": {
+        "filename": "dog9.jpeg",
+        "size": 5588,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 85,
+                    "y": 22,
+                    "width": 114,
+                    "height": 162
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog10.jpeg5061": {
+        "filename": "dog10.jpeg",
+        "size": 5061,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 28,
+                    "y": 20,
+                    "width": 172,
+                    "height": 161
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog11.jpeg5291": {
+        "filename": "dog11.jpeg",
+        "size": 5291,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 20,
+                    "y": 23,
+                    "width": 235,
+                    "height": 142
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog12.jpeg9932": {
+        "filename": "dog12.jpeg",
+        "size": 9932,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 59,
+                    "y": 26,
+                    "width": 179,
+                    "height": 170
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog13.jpeg14564": {
+        "filename": "dog13.jpeg",
+        "size": 14564,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 80,
+                    "y": 26,
+                    "width": 101,
+                    "height": 146
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog14.jpeg5020": {
+        "filename": "dog14.jpeg",
+        "size": 5020,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 44,
+                    "width": 84,
+                    "height": 118
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog15.jpeg7913": {
+        "filename": "dog15.jpeg",
+        "size": 7913,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 10,
+                    "y": 28,
+                    "width": 149,
+                    "height": 252
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog16.jpeg9834": {
+        "filename": "dog16.jpeg",
+        "size": 9834,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 33,
+                    "width": 102,
+                    "height": 83
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog17.jpeg8669": {
+        "filename": "dog17.jpeg",
+        "size": 8669,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 90,
+                    "y": 23,
+                    "width": 97,
+                    "height": 127
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog18.jpeg11668": {
+        "filename": "dog18.jpeg",
+        "size": 11668,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 46,
+                    "y": 64,
+                    "width": 116,
+                    "height": 153
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog19.jpeg4199": {
+        "filename": "dog19.jpeg",
+        "size": 4199,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 109,
+                    "y": 10,
+                    "width": 130,
+                    "height": 168
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog20.jpeg5777": {
+        "filename": "dog20.jpeg",
+        "size": 5777,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 34,
+                    "y": 19,
+                    "width": 123,
+                    "height": 216
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog21.jpeg7442": {
+        "filename": "dog21.jpeg",
+        "size": 7442,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 67,
+                    "y": 0,
+                    "width": 183,
+                    "height": 145
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog22.jpeg10841": {
+        "filename": "dog22.jpeg",
+        "size": 10841,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 50,
+                    "y": 21,
+                    "width": 148,
+                    "height": 155
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog23.jpeg4792": {
+        "filename": "dog23.jpeg",
+        "size": 4792,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 12,
+                    "y": 7,
+                    "width": 226,
+                    "height": 173
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog24.jpeg7466": {
+        "filename": "dog24.jpeg",
+        "size": 7466,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 39,
+                    "width": 121,
+                    "height": 110
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog25.jpeg7789": {
+        "filename": "dog25.jpeg",
+        "size": 7789,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 43,
+                    "y": 44,
+                    "width": 111,
+                    "height": 176
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog27.jpeg7413": {
+        "filename": "dog27.jpeg",
+        "size": 7413,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 82,
+                    "y": 55,
+                    "width": 125,
+                    "height": 77
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog28.jpeg7934": {
+        "filename": "dog28.jpeg",
+        "size": 7934,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 72,
+                    "y": 6,
+                    "width": 147,
+                    "height": 153
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog29.jpg6721": {
+        "filename": "dog29.jpg",
+        "size": 6721,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7,
+                    "y": 25,
+                    "width": 200,
+                    "height": 123
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog30.jpg7503": {
+        "filename": "dog30.jpg",
+        "size": 7503,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 84,
+                    "y": 29,
+                    "width": 102,
+                    "height": 105
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog31.jpg5356": {
+        "filename": "dog31.jpg",
+        "size": 5356,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100,
+                    "y": 8,
+                    "width": 135,
+                    "height": 157
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog32.jpg9312": {
+        "filename": "dog32.jpg",
+        "size": 9312,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 46,
+                    "y": 4,
+                    "width": 145,
+                    "height": 192
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog33.jpeg3134": {
+        "filename": "dog33.jpeg",
+        "size": 3134,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 89,
+                    "y": 68,
+                    "width": 79,
+                    "height": 132
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog34.jpg13691": {
+        "filename": "dog34.jpg",
+        "size": 13691,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 30,
+                    "y": 18,
+                    "width": 131,
+                    "height": 224
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog35.jpg14129": {
+        "filename": "dog35.jpg",
+        "size": 14129,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 84,
+                    "y": 6,
+                    "width": 172,
+                    "height": 154
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog36.jpg8184": {
+        "filename": "dog36.jpg",
+        "size": 8184,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 77,
+                    "y": 14,
+                    "width": 151,
+                    "height": 146
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog37.jpg9782": {
+        "filename": "dog37.jpg",
+        "size": 9782,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 79,
+                    "y": 36,
+                    "width": 129,
+                    "height": 112
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog38.jpeg6377": {
+        "filename": "dog38.jpeg",
+        "size": 6377,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 110,
+                    "y": 8,
+                    "width": 126,
+                    "height": 158
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog39.jpeg5702": {
+        "filename": "dog39.jpeg",
+        "size": 5702,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 90,
+                    "y": 34,
+                    "width": 85,
+                    "height": 137
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog40.jpeg5436": {
+        "filename": "dog40.jpeg",
+        "size": 5436,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 24,
+                    "width": 142,
+                    "height": 122
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog41.jpeg8444": {
+        "filename": "dog41.jpeg",
+        "size": 8444,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 24,
+                    "y": 9,
+                    "width": 242,
+                    "height": 163
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog42.jpeg8009": {
+        "filename": "dog42.jpeg",
+        "size": 8009,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 12,
+                    "y": 6,
+                    "width": 154,
+                    "height": 252
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog43.jpeg9816": {
+        "filename": "dog43.jpeg",
+        "size": 9816,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 54,
+                    "y": 10,
+                    "width": 122,
+                    "height": 189
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog44.jpeg6539": {
+        "filename": "dog44.jpeg",
+        "size": 6539,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 90,
+                    "y": 40,
+                    "width": 148,
+                    "height": 132
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog45.jpeg5793": {
+        "filename": "dog45.jpeg",
+        "size": 5793,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 12,
+                    "y": 32,
+                    "width": 237,
+                    "height": 104
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog46.jpeg7461": {
+        "filename": "dog46.jpeg",
+        "size": 7461,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 18,
+                    "y": 49,
+                    "width": 100,
+                    "height": 154
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog47.jpeg7508": {
+        "filename": "dog47.jpeg",
+        "size": 7508,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 26,
+                    "y": 9,
+                    "width": 163,
+                    "height": 181
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog48.jpeg8083": {
+        "filename": "dog48.jpeg",
+        "size": 8083,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 44,
+                    "y": 27,
+                    "width": 160,
+                    "height": 140
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog49.jpeg16625": {
+        "filename": "dog49.jpeg",
+        "size": 16625,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 80,
+                    "y": 8,
+                    "width": 86,
+                    "height": 188
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dog50.jpeg10056": {
+        "filename": "dog50.jpeg",
+        "size": 10056,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 56,
+                    "y": 34,
+                    "width": 121,
+                    "height": 183
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "dogs26.jpeg5916": {
+        "filename": "dogs26.jpeg",
+        "size": 5916,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 62,
+                    "y": 19,
+                    "width": 115,
+                    "height": 159
+                },
+                "region_attributes": {
+                    "type": "dog"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}
