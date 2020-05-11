@@ -42,3 +42,10 @@ This is a modification of the Depth Estimation [repository](https://github.com/i
 ## Work In Progress
 
 It was noticed that the colab file used NYU dataset which contains images of indoor spaces. As the images are generated programatically, we would like to divide the background images into two categories and train the indoor images on NYU pretrained model and the outdoor images on KITTY dataset.
+
+## Useful Links
+
+- [Link](https://drive.google.com/open?id=1LEt_ygTn1zgfnOzMov1ZbAu5405N1bNq) to Overlay Images
+- [Link](https://drive.google.com/open?id=1gJyNIM2LkvvPD1yWuRb10eyximTzNF7p) to Masks
+- [Link](https://drive.google.com/open?id=11wZQEiJ9vtc804giT99YdkbAhFjlxQL9) to Depth Images[WIP]
+
