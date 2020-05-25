@@ -1,6 +1,6 @@
 # Assignment -15
 
-'No one cared who I was, until I put on the mask'
+'*No one cared who I was, until I put on the mask*'
 
 It all started with putting masks on people, not because of GDPR but for Image Segmentation and Monocular Depth Estimation.
 
@@ -58,7 +58,7 @@ Here came in the first obstacle on how to get through this project with burning 
 
 ## Image Segmentation
 
-- Custom Model
+- [Custom Model](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-15/newmodel.py)
 
   ```
   Total params: 114,624
@@ -120,7 +120,7 @@ x7 = self.convblock2_4(x6)
 
 ## Depth Prediction
 
-- Model
+- [Model](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-15/DepthModel.py)
 
   - UNet for Brain Segmentation [Link](https://github.com/mateuszbuda/brain-segmentation-pytorch) 
 
@@ -187,7 +187,7 @@ return torch.sigmoid(self.conv(dec1))
 
 
 
-1. Segmentation - even rows shows predicted images
+1. Segmentation - even rows shows predicted images [Validate.ipynb](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-15/val.ipynb)
 
 ![image-20200525161741721](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-15/images/image-20200525161741721.png)
 
