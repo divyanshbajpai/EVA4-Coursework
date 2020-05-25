@@ -93,19 +93,19 @@ x7 = self.convblock2_4(x6)
 
 1. Original Image
 
-   ![image-20200525132212859](C:\Users\I341820\AppData\Roaming\Typora\typora-user-images\image-20200525132212859.png)
+   ![image-20200525132212859](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-15/images/image-20200525132212859.png)
 
 2.  BCELogitloss()
 
-   ![image-20200525132246542](C:\Users\I341820\AppData\Roaming\Typora\typora-user-images\image-20200525132246542.png)
+   ![image-20200525132246542](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-15/images/image-20200525132246542.png)
 
 3.  L1Loss()
 
-   ![image-20200525132701845](C:\Users\I341820\AppData\Roaming\Typora\typora-user-images\image-20200525132701845.png)
+   ![image-20200525132701845](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-15/images/image-20200525132701845.png)
 
 4.  BCELoss()
 
-   ![image-20200525133154545](C:\Users\I341820\AppData\Roaming\Typora\typora-user-images\image-20200525133154545.png)
+   ![image-20200525133154545](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-15/images/image-20200525133154545.png)
 
    
 
@@ -162,21 +162,21 @@ return torch.sigmoid(self.conv(dec1))
 
 1. Original Depth Image
 
-   ![Original](C:\Users\I341820\AppData\Roaming\Typora\typora-user-images\image-20200525015932109.png)
+   ![Original](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-15/images/image-20200525015932109.png)
 
 2. L1Loss()
 
-   ![image-20200525022003185](C:\Users\I341820\AppData\Roaming\Typora\typora-user-images\image-20200525022003185.png)
+   ![image-20200525022003185](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-15/images/image-20200525022003185.png)
 
     
 
 3.  SmoothL1Loss()
 
-![image-20200525125946094](C:\Users\I341820\AppData\Roaming\Typora\typora-user-images\image-20200525125946094.png)
+![image-20200525125946094](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-15/images/image-20200525125946094.png)
 
 4. BCEWithLogitsLoss()
 
-   ![image-20200525130601130](C:\Users\I341820\AppData\Roaming\Typora\typora-user-images\image-20200525130601130.png)
+   ![image-20200525130601130](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-15/images/image-20200525130601130.png)
 
 ### Strategy
 
@@ -189,11 +189,11 @@ return torch.sigmoid(self.conv(dec1))
 
 1. Segmentation - even rows shows predicted images
 
-![image-20200525161741721](C:\Users\I341820\AppData\Roaming\Typora\typora-user-images\image-20200525161741721.png)
+![image-20200525161741721](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-15/images/image-20200525161741721.png)
 
 2. Depth Prediction - even rows show the prediction
 
-   ![Pa](C:\Users\I341820\AppData\Roaming\Typora\typora-user-images\image-20200525162006164.png)
+   ![Pa](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-15/images/image-20200525162006164.png)
 
 
 
@@ -203,7 +203,7 @@ return torch.sigmoid(self.conv(dec1))
 
 As referred from the paper: [depth-map-prediction-from-a-single-image-using-a-multi-scale-deep-network](https://papers.nips.cc/paper/5539-depth-map-prediction-from-a-single-image-using-a-multi-scale-deep-network.pdf) , I tried to introduce the given transformation in my training set, but the results got worse, initial RCA suggest that my dataset had much of outdoor images rather than Indoor which NYU dataset consists of. In the end went ahead with normalization only.
 
-![image-20200525162517000](C:\Users\I341820\AppData\Roaming\Typora\typora-user-images\image-20200525162517000.png)
+![image-20200525162517000](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-15/images/image-20200525162517000.png)
 
 
 
@@ -211,7 +211,7 @@ As referred from the paper: [depth-map-prediction-from-a-single-image-using-a-mu
 
 https://www.researchgate.net/publication/332429592_Depth_Estimation_and_Semantic_Segmentation_from_a_Single_RGB_Image_Using_a_Hybrid_Convolutional_Neural_Network
 
-![image-20200525165739000](C:\Users\I341820\AppData\Roaming\Typora\typora-user-images\image-20200525165739000.png)
+![image-20200525165739000](https://github.com/divyanshbajpai/EVA4-Coursework/blob/master/Assignment-15/images/image-20200525165739000.png)
 
 This was the reference architecture which I was aiming for. But didn't worked out. Implemented few iterations of architecture but kept failing to get the right backprop technique and combination of different losses. 
 
