@@ -21,7 +21,7 @@ Output:
 
 ## Data
 
-Assignment- 14 brought in the basic starting kit.
+Assignment- 14 brought in the basic starting kit. [Link to dataset](https://drive.google.com/open?id=1tHepwxYhbN4530ZVnhiCObeXcFJUhQZq)
 
 - FG images
 - BG Images
